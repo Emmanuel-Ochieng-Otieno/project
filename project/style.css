@@ -1,0 +1,30 @@
+{
+    margin[0] padding[0] font family['lucida sans ,lucida grande ,lucider sans regular'] box sizing[border box]
+}
+
+body {
+    color: blueviolet;
+    display: flexbox;
+    hieght: 108vh justify-content[center] align items[center] background[linear-gradient(130deg, color rgb(13, 13, 14)4, 0, 128)4, 0, 128)4, 0, 128), 19, 128), 19, 128), 19, 128), 19, 128), 19, 128), 19, 128))] padding[10px]
+}
+
+container {
+    max-width: 600px;
+    width: 100%;
+    padding: 25px 30px;
+    border-radius: 0pc;
+    background: cadetblue;
+}
+
+registration form h1 {
+    font-size: 25px;
+    font-weight: 500;
+    position[relative] text-align: center;
+    padding 28 px]
+}
+
+{
+    background color: dark blue;
+}
+
+'''
